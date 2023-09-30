@@ -6,7 +6,7 @@ so don't worry if you don't get through Task 1 before lab. There will also
 be some time to do this as your TA helps everyone get into teams.**
 
 
-## Task 0: Fork and clone this repo
+## Task 0: Fork and clone this rep
 
 1. As with the previous lab activities, start by making a fork of this repo and cloning it.
 
